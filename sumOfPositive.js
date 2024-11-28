@@ -1,4 +1,4 @@
-// Rulyanda Melsya Coding Challange 2024
+// Rulyanda Melsya Coding challenge 2024
 // https://www.codewars.com/kata/5715eaedb436cf5606000381
 
 function positiveSum(arr) {
@@ -8,8 +8,6 @@ function positiveSum(arr) {
         arr[i] = 0;
       }
       sum += arr[i];
-
-      
     }
     return sum;
   }
